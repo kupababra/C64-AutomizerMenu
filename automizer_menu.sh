@@ -98,16 +98,7 @@ while true; do
     echo -e "\e[32m8.\e[0m Użyj d64copy (kopiuj .d64 lub dysk ←→ plik)"
     echo -e "\e[32m9.\e[0m Pomoc"
     echo -e "\e[32m0.\e[0m Wyjście"
-    #echo "1. Wykryj stacje (detect)"
-    #echo "2. Status stacji"
-    #echo "3. Reset IEC"
-    #echo "4. Wyświetl pliki na dyskietce (listing cbmctrl dir)"
-    #echo "5. Zapisz .d64 na dyskietkę"
-    #echo "6. Zapisz program PRG"
-    #echo "7. Formatuj dyskietkę"
-    #echo "8. Użyj d64copy (kopiuj .d64 lub dysk ←→ plik)"
-    #echo "9. Pomoc"
-    #echo "0. Wyjście"
+    
     printf "Wybierz opcję [0-9]: "
     read -r CHOICE
     case "$CHOICE" in
