@@ -32,7 +32,7 @@ FORMATTER="cbmformat"
 usage() {
 cat <<'EOF'
 Użycie:
-  ocbm_automizer.sh [opcje]
+  automizer_menu.sh [opcje]
 
 Możesz wybrać z menu interaktywnego lub użyć komend:
   menu                - wywołuje menu wyboru akcji (domyślne przy starcie bez argumentów)
