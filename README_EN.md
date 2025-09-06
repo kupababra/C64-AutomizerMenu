@@ -41,7 +41,7 @@ C64-AutomizerMenu runs on Linux systems, such as Ubuntu, Debian, Slackware, or N
 - `OpenCBM` – for communication with the 1541 II drive,
 - `cbmctrl` – for disk operations,
 - `bash` – to run scripts.
-
+- `Legion Go` - works with handheld when connected via cable + USB-C to USB-A adapter <-cable-> USB-A to USB-C -> xum1541
 ---
 
 ## 💾 5.25" Disk (DD) Support
