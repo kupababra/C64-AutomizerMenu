@@ -29,7 +29,7 @@
 6. **Zapisz program PRG** – wgrywa plik `.PRG` na dyskietkę.  
 7. **Formatuj dyskietkę** – przygotowuje dysk do użycia.  
 8. **Użyj d64copy** – kopiowanie `.d64` lub całych dysków (disk ↔ file).  
-9. **Pomoc** – wyświetla dostępne opcje i instrukcje.  
+9. **Pomoc** – wyświetla dostępne opcje i instrukcje.
 0. **Wyjście** – zamyka menu.
 
 ---
