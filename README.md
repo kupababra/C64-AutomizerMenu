@@ -41,7 +41,7 @@ C64-AutomizerMenu działa na systemach Linux, takich jak Ubuntu, Debian, Slackwa
 - `OpenCBM` – do komunikacji z napędem 1541 II,
 - `cbmctrl` – do operacji na dyskietkach,
 - `bash` – do uruchamiania skryptów.
-
+- `Legion Go` - działa z handheldem po podłączeniu kablem + przejściówka USB-C do USB-A <-kabel-> USB-A do USB-C -> xum1541
 ---
 
 ## 💾 Obsługa dyskietek 5,25" (DD)
