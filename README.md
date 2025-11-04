@@ -1,4 +1,4 @@
-# 🖥️ OpenCBM C64 Automizer Menu v0.0.1 alpha
+# 🖥️ OpenCBM C64 Automizer Menu v1.0
 
 *Created by TinkerWheel – bofh@retro-technology.pl*  
 *Wszystko dla retro, retro dla wszystkich! :)*  
