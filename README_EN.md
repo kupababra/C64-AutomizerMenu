@@ -63,7 +63,7 @@ chmod +x *.sh
 ```
 3. Run the program:
 ```bash
-./automizer_menu.sh
+doas ./automizer_menu.sh
 ```
 
 ---
