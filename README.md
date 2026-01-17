@@ -1,6 +1,6 @@
 # 🖥️ OpenCBM C64 Automizer Menu v1.0
 
-*Created by TinkerWheel – bofh@retro-technology.pl*  
+*Created by TinkerWheel – id3fix@retro-technology.pl*  
 *Wszystko dla retro, retro dla wszystkich! :)*  
 *Niech transfer bajtów będzie z Wami.*
 
@@ -63,7 +63,7 @@ chmod +x *.sh
 ```
 3. Uruchom program:
 ```bash
-./automizer_menu.sh
+doas ./automizer_menu.sh
 ```
 
 ---
