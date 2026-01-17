@@ -81,7 +81,7 @@ show_menu() {
 while true; do
     echo
     echo -e "\033[1;34m===== \033[1;31mOpenCBM \033[1;37mC64 \033[1;36mAutomizer Menu v.1.0 \033[1;34m=====\033[0m\n"
-    echo -e "\033[36m * Created by TinkerWheel - bofh@retro-technology.pl\033[0m"
+    echo -e "\033[36m * Created by TinkerWheel - id3fix@retro-technology.pl\033[0m"
     echo -e "\033[36m * Wszystko dla retro, retro dla wszystkich! :)\033[0m"
     echo -e "\033[36m * Niech transfer bajtów będzie z Wami.\033[0m\n"
     echo -e "\033[36m - Bash doesn’t ask, bash executes. -\033[0m\n"
