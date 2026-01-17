@@ -1,6 +1,6 @@
 # 🖥️ OpenCBM C64 Automizer Menu v0.0.1 alpha
 
-*Created by TinkerWheel – bofh@retro-technology.pl*  
+*Created by TinkerWheel – id3fix@retro-technology.pl*  
 *Everything for retro, retro for everyone! :)*  
 *May the byte transfer be with you.*
 
